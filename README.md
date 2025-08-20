@@ -1,4 +1,16 @@
-Hi, I’m Harsh Singh 🚀<br>🎓 Pre-final year Computer Science & Engineering student at Maharana Pratap Institute of Professional Studies (AKTU)<br>💻 Passionate about Full-Stack Development, Backend Engineering, and Cloud Solutions<br>⚡ Skilled in C, Java, Python, JavaScript, and frameworks like Node.js, Express.js, React.js, Django, Spring Boot, Next.js<br>📊 Exploring Data Analytics, Cloud Computing (AWS, Kubernetes, GameLift), and Scalable System Design<br>📌 Currently building projects around MERN stack, real-time apps, and e-commerce platforms<br>🌱 Actively learning system design, microservices, and deployment pipelines<br>🤝 Open to collaborations, internships, and open-source contributions
+## Hi there 👋  
+
+Welcome to my GitHub! I’m **Harsh Singh** 🚀  
+
+# 💫 About Me  
+I am **Harsh Singh**, a pre-final year **Computer Science & Engineering student** at *Maharana Pratap Institute of Professional Studies (AKTU)*.  
+
+- 💻 Enthusiastic about **Full-Stack Development, Backend Engineering, and Cloud Solutions**  
+- ⚡ Proficient in **C, Java, Python, JavaScript**, with hands-on experience in frameworks such as **Node.js, Express.js, React.js, Django, Spring Boot, and Next.js**  
+- ☁️ Exploring **Cloud Computing (AWS, Kubernetes, GameLift)**, **Data Analytics**, and **Scalable System Design**  
+- 🚀 Currently developing projects using the **MERN stack**, including **real-time applications** and **e-commerce platforms**  
+- 🌱 Focused on strengthening my knowledge in **system design, microservices, and deployment pipelines**  
+- 🤝 Open to **internships, collaborations, and contributing to open-source projects**  
 
 
 ## 🌐 Socials:
