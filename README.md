@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi, I’m Harsh Singh 🚀<br>🎓 Pre-final year Computer Science & Engineering student at Maharana Pratap Institute of Professional Studies (AKTU)<br>💻 Passionate about Full-Stack Development, Backend Engineering, and Cloud Solutions<br>⚡ Skilled in C, Java, Python, JavaScript, and frameworks like Node.js, Express.js, React.js, Django, Spring Boot, Next.js<br>📊 Exploring Data Analytics, Cloud Computing (AWS, Kubernetes, GameLift), and Scalable System Design<br>📌 Currently building projects around MERN stack, real-time apps, and e-commerce platforms<br>🌱 Actively learning system design, microservices, and deployment pipelines<br>🤝 Open to collaborations, internships, and open-source contributions
 
 
