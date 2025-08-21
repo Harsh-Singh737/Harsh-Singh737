@@ -26,4 +26,6 @@ I am **Harsh Singh**, a pre-final year **Computer Science & Engineering student*
 ---
 [![](https://visitcount.itsvg.in/api?id=Harsh-Singh737&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![Profile Views](https://komarev.com/ghpvc/?username=harshsinghlo&label=Profile%20Views&color=0e75b6&style=flat)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
