@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Harsh Singh  
 
-🚀 **Full-Stack & Backend Developer | Cloud & System Design Enthusiast**
+🚀 **Full-Stack & Backend Developer
 
 ---
 
@@ -9,9 +9,8 @@ I’m **Harsh Singh**, a pre-final year **Computer Science & Engineering** stude
 I enjoy building scalable web applications, exploring cloud platforms, and designing efficient backend systems.
 
 - 💻 Passionate about **Full-Stack Development**, **Backend Engineering**, and **Cloud Computing**  
-- 🧠 Strong in **C, Java, Python, and JavaScript** with hands-on experience in modern frameworks like **Node.js, Express.js, React.js, Django, Spring Boot, and Next.js**  
-- ☁️ Exploring **AWS, Kubernetes, and scalable system design for real-time applications**  
-- 📈 Interested in **Data Analytics**, **Microservices Architecture**, and **DevOps pipelines**  
+- 🧠 Strong in **C, Java, Python, and JavaScript** with hands-on experience in modern frameworks like **React, Spring Boot, Spring Security, Oauth2, Spring Data JPA**  
+- ☁️ Exploring **AWS and scalable system design for real-time applications**  
 - 🤝 Open to **internships, open-source contributions, and collaborative projects**
 
 ---
