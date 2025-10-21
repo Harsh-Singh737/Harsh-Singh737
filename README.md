@@ -5,11 +5,11 @@
 ---
 
 ## 💫 About Me  
-I’m **Harsh Singh**, a pre-final year **Computer Science & Engineering** student at *Maharana Pratap Institute of Professional Studies (AKTU)*.  
+I’m **Harsh Singh**, a final year **Computer Science & Engineering** student at *Maharana Pratap Institute of Professional Studies (AKTU)*.  
 I enjoy building scalable web applications, exploring cloud platforms, and designing efficient backend systems.
 
 - 💻 Passionate about **Full-Stack Development**, **Backend Engineering**, and **Cloud Computing**  
-- 🧠 Strong in **C, Java, Python, and JavaScript** with hands-on experience in modern frameworks like **React, Spring Boot, Spring Security, Oauth2, Spring Data JPA**  
+- 🧠 Strong in **Java, Python, SQL and JavaScript** with hands-on experience in modern frameworks like **React, Spring Boot, Spring Security, Oauth2, Spring Data JPA**  
 - ☁️ Exploring **AWS and scalable system design for real-time applications**  
 - 🤝 Open to **internships, open-source contributions, and collaborative projects**
 
@@ -31,12 +31,13 @@ I enjoy building scalable web applications, exploring cloud platforms, and desig
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### ⚙️ Backend & Frameworks  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
-![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)  
-![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-%23007EC6.svg?style=for-the-badge&logo=rest&logoColor=white)  
-![Hibernate](https://img.shields.io/badge/Hibernate-%235C7A1F.svg?style=for-the-badge&logo=hibernate&logoColor=white)  
-![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) 
+![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-007EC6?style=for-the-badge&logo=rest&logoColor=white) 
+![Hibernate](https://img.shields.io/badge/Hibernate-5C7A1F?style=for-the-badge&logo=hibernate&logoColor=white) 
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
 
 
 ### 🧠 Frontend & UI
