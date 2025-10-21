@@ -69,10 +69,12 @@ I enjoy building scalable web applications, exploring cloud platforms, and desig
 
 ---
 
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=Harsh-Singh737&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://streak-stats.demolab.com?user=Harsh-Singh737&theme=github-dark-blue&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Singh737&theme=github_dark&hide_border=false&layout=compact)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsh-Singh737&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Singh737&theme=dark&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Singh737&theme=github_dark&hide_border=false&layout=compact)
+
 
 ---
 
